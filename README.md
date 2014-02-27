@@ -1,4 +1,0 @@
-ArtOfWar
-========
-
-Strategic Game 
